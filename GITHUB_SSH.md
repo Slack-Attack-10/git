@@ -5,3 +5,6 @@
 `eval "$(ssh-agent -s)"`
 
 `ssh-add ~/.ssh/id_ed25519`
+
+## 3. Verbindung prüfen
+`ssh -T git@github.com`
