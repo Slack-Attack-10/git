@@ -17,3 +17,9 @@
 
 ## Veränderungen aufzeichnen
 `git commit -m "added index.html"`
+
+## Git Username festlegen
+`git congfig user.name "myName" --global`
+
+## Git Email festlegen
+`git config user.email "myemail@email.com" --global`
