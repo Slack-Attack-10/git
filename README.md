@@ -23,3 +23,6 @@
 
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
+
+## Ich bin da
+  `Marian`
