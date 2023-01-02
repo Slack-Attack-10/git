@@ -19,7 +19,7 @@
 `git commit -m "added index.html"`
 
 ## Git Username festlegen
-`git congfig user.name "myName" --global`
+`git congfig --global user.name "myName"`
 
 ## Git Email festlegen
-`git config user.email "myemail@email.com" --global`
+`git config --global user.email "myemail@email.com"`
