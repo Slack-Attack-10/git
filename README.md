@@ -3,7 +3,7 @@
 ## GIT zu Projekt hinzufügen
 `git init`
 
-## Datei tracken
+## Datei tracken oder Änderungen speichern
 `git add [Dateiname]`
 
 ## alle Veränderungen aller Dateien für commit vorbereiten
@@ -16,10 +16,7 @@
 `git status`
 
 ## eine Veränderungen werden commited mit einem Hinweistext
-`git commit -m "added index.html"`
-
-## alle geänderen Dateien werden commited
-`git commit -a` 
+`git commit -m "added index.html"` 
 
 ## Commited alle geänderen Dateien + Hinweistext
 `git commit -am "Message"`
