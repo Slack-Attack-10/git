@@ -1,5 +1,8 @@
 # GIT
 
+## Tutorial
+- [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+
 ## GIT zu Projekt hinzufügen
 `git init`
 
