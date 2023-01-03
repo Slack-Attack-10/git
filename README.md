@@ -63,4 +63,7 @@
 ## Änderungen werden vom lokalen Rechner auf GitHub hochgeladen
 `git push`
 
+## Alle branches von GitHub anzeigen
+`git fetch --all`
 
+`git branch --all`
