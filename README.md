@@ -28,3 +28,15 @@
 
 'git push'
 
+## Daten vom Server herunterladen
+
+'git pull'
+
+## Einen neuen Branch erstellen
+
+'git checkout -b *branchname*'
+
+## Anzeige aller Branches. Zeigt auch in welchem man sich befindet.
+
+'git branch'
+
