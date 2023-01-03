@@ -23,3 +23,6 @@
 
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
+
+## Git neuen Branch erstellen / Branch wechseln
+`git checkout branchnamexx
