@@ -23,3 +23,15 @@
 
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
+
+## Git Ordner Kopie herunterladen
+`git clone + file(Kopie)
+
+## Git Kopie der main branch erstellen
+`git branch + Name des branch
+
+## Version aktualisieren
+`git pull´
+
+## Version hochladen
+`git push´
