@@ -24,5 +24,14 @@
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
 
-## Ich bin da
-  `Marian`
+## Ein Ordnerkopie unterladen
+"git clone +File"
+
+## Eine Kopie der main Branch erstellen
+"git branch +Name der Branch"
+
+## Die neueste Version unterlader
+"git pull"
+
+## Version hochladen
+"git push"
