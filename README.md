@@ -24,5 +24,7 @@
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
 
-## Ich bin da
-  `Marian`
+## Lokale Commits auf Server übermitteln
+
+'git push'
+
