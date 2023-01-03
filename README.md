@@ -3,6 +3,9 @@
 ## Tutorial
 - [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 
+## Setup
+- [GitHub SSH](GITHUB_SSH.md)
+
 ## GIT zu Projekt hinzufügen
 `git init`
 
