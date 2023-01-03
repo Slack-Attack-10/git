@@ -23,3 +23,24 @@
 
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
+
+## Die neuen Commits herunterladen
+`git pull`
+
+## Lokale commits auf den server übermitteln
+`git push
+
+## Eine Kopie vom main branch holen
+`git clone`
+
+## Alle branches anzeigen und den Branch grün anzeigen, wo man sich befindet
+`git branch`
+
+## Wechselt in den <BRANCHNAME>
+`git checkout <BRANCHNAME>`
+
+## Erstellt ein neuen Branch und wechselt direkt dahin
+`git checkout -b <BRANCHNAME>
+
+## Branches herunterladen, die erstellt wurden
+`git fetch`
